@@ -3,7 +3,7 @@
 ## Instruções
 
 1. Faça um fork deste repositório;
-2. Envie um e-mail informando a data para finalização do chamado;
+2. Envie um e-mail (mariana.bompean@gsw.com.br) com o seu CV, informando a data para finalização do chamado;
 3. Crie uma branch com o seu nome;
 4. Envie-nos o PULL-REQUEST para que seja avaliado.
 
