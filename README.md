@@ -1,11 +1,12 @@
-﻿# Interview GSW
+# Interview GSW
 
 ## Instruções
 
-1. Faça um fork deste repositório;
-2. Envie um e-mail (mariana.bompean@gsw.com.br) com o seu CV, informando a data para finalização do teste;
-3. Crie uma branch com o seu nome;
-4. Envie-nos o PULL-REQUEST para que seja avaliado;
+1. Clonar o repositório;
+2. Envie um e-mail (mariana.bompean@gsw.com.br), informando a data para finalização do teste;
+3. Criar o repositorio no Github/gitlab/bitbucket e enviar o código para lá.
+4. Crie uma branch com o seu nome;
+5. Envie (nicolas@gsw.com.br) o link para que seja avaliado;
 
 ### O teste
 
@@ -29,6 +30,7 @@ Não estamos exigindo layout e também arquitetura do projeto, porém, isso ser�
 * Configurar o Swagger na aplicação
 * Usar Microsfot SqlServer 2014 ou superior.
 * Gerar Scripts e disponibilizá-los em uma pasta.
+* Implementar front-end para consumir a API em  Angular.
 
 ### Observações:
 * O sistema deverá ser desenvolvido na plataforma .NET com C#, usando o framework ASP.NET (Core/Full ramework)
@@ -37,7 +39,6 @@ público não terá autenticação, ou seja, terá acesso livre;
 
 
 ### Diferencial:
-* Implementar front-end para consumir a API em  Angular/React como framework Javascript.
 * Aplicação das boas práticas do DDD, TDD, Design Patterns, SOLID e Clean Code.
 obs: Teste terá como avaliação principal os requisitos solicitados para o backend,  porém o frontend 
 poderá ser critério de desempate.
@@ -51,7 +52,7 @@ Exemplo:
 - Baixar os pacotes Nuget
 - Publicar o projeto, publicar a WebAPI;
 - Instalar o pacote XYZ do node
-- Compilar o Angular/React;
+- Compilar o Angular;
 - Fazer os testes da aplicação;
 - Aplicar melhorias e testes se achar necessário.
 
